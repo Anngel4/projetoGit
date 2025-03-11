@@ -1,1 +1,3 @@
-console.log("Olá mundo.")
+let seuNome = prompt("Qual teu nome?");
+
+console.log ("Seja bem vindo(a), "+seuNome+"!!!!");
